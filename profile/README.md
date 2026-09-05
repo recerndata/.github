@@ -8,24 +8,24 @@
   </a>
 </p>
 
-<p align="center">
+<h2>
   <strong>Database Workspace</strong>
-</p>
+</h2>
 
-<p align="center">
+<p>
   Analyze data, activity and performance across PostgreSQL, MongoDB, ClickHouse, Redis and more.
 </p>
 
-<p align="center">
+<p>
   <strong>Clarity across databases.</strong>
 </p>
 
-<p align="center">
+<p>
   Recern brings data, activity and performance into one workspace,<br/>
   with engine-specific views designed around how each database actually works.
 </p>
 
-<p align="center">
+<p>
   <a href="https://recern.net">Website</a>
   ·
   <a href="https://www.linkedin.com/company/recern/">LinkedIn</a>
